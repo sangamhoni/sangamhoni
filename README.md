@@ -1,3 +1,41 @@
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=500&pause=1000000000000&vCenter=true&random=false&width=317&lines=I+am+Sangam+and+I)](whoami)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=7&vCenter=true&random=false&width=250&lines=+code.;+design.;+build+stuffs.++++;+workout.)](whoami)
+
+
+<!-- ABOUT ME -->
+### `<about me />`
+```
+const Sangam = {  
+    pronouns: "he" | "him",  
+    code: [Javascript, HTML, CSS],  
+    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],  
+    technologies: {  
+        frontEnd: {  
+            css: ["bootstrap", "materialize"]  
+        },  
+        backEnd: {  
+            js: ["firebase", "node"]  
+        }  
+    }  
+};  
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hey 👋, I'm Sangam</h1>
 <h3 align="center">An enthusiastic learner from Nepal</h3>
 
