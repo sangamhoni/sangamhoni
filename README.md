@@ -4,7 +4,7 @@
 
 
 <!-- ABOUT ME -->
-### `<about me />`
+### `<about_me />`
 ```
 const Sangam = {  
     pronouns: "he" | "him",  
@@ -22,7 +22,36 @@ const Sangam = {
 ```
 
 
+<!-- TECH STACK -->
+### `<tech_stack />`
 
+<p align="center">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width=50" height=50" alt="Python" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width=50" height=50" alt="JavaScript"/></a>
+    <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width=50" height=50" alt="C"/></a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width=50" height=50" alt="React"/></a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width=50" height=50" alt="Node JS"/></a>
+    <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" width=50" height=50" alt="Flask"/></a>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width=50" height=50" alt="HTML5"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width=50" height=50" alt="CSS3"/></a>
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" width=50" height=50" alt="Illustrator"/></a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ps" width=50" height=50" alt="Photoshop"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width=50" height=50" alt="Tailwind"/></a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width=50" height=50" alt="GitHub"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width=50" height=50" alt="Git" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width=50" height=50" alt="My SQL" /></a>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width=50" height=50" alt="Java" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width=50" height=50" alt="VS Code" /></a>
+    <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width=50" height=50" alt="WordPress" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width=50" height=50" alt="Figma" /></a>
+
+
+    
+</p>
+
+
+<!-- LINE ANIMATION. not working rn--> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <!-- PROFILE VIEWS COUNTER -->
