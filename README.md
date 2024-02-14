@@ -25,6 +25,14 @@ const Sangam = {
 
 
 
+<!-- PROFILE VIEWS COUNTER -->
+&nbsp;  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsangamhoni&label=VISITS&labelColor=%23263759&countColor=%230d1117&labelStyle=upper)](proflle-visits)
+
+
+
+
+
 
 
 
