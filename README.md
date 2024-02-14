@@ -1,12 +1,15 @@
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=500&pause=1000000000000&vCenter=true&random=false&width=317&lines=I+am+Sangam+and+I)](whoami)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=7&vCenter=true&random=false&width=250&lines=+code.;+design.;+build+stuffs.++++;+workout.)](whoami)
+<div align="center">
+  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=500&pause=1000000000000&vCenter=true&random=false&width=317&height=60&lines=I+am+Sangam+and+I">
+  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=7&vCenter=true&random=false&width=250&height=60&lines=+code.;+design.;+build+stuffs.++++;+workout.">
+</div>
 
 
 <!-- ABOUT ME -->
 ### `<about_me />`
 ```
-const Sangam = {  
+const Sangam = {
+    fullName: "Sangam Subedi",
     pronouns: "he" | "him",  
     code: [Javascript, HTML, CSS],  
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],  
@@ -20,11 +23,11 @@ const Sangam = {
     }  
 };  
 ```
+&nbsp;  
 
 
 <!-- TECH STACK -->
 ### `<tech_stack />`
-
 <p align="center">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width=50" height=50" alt="Python" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width=50" height=50" alt="JavaScript"/></a>
@@ -36,27 +39,38 @@ const Sangam = {
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width=50" height=50" alt="CSS3"/></a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" width=50" height=50" alt="Illustrator"/></a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ps" width=50" height=50" alt="Photoshop"/></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width=50" height=50" alt="Tailwind"/></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width=50" height=50" alt="GitHub"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width=50" height=50" alt="Git" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width=50" height=50" alt="My SQL" /></a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width=50" height=50" alt="Java" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width=50" height=50" alt="VS Code" /></a>
     <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width=50" height=50" alt="WordPress" /></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width=50" height=50" alt="Figma" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width=50" height=50" alt="Figma" /></a>    
+</p>
+&nbsp;  
 
 
-    
+<!-- SOCIAL MEDIA -->
+### `<say_hello />`
+<p align="center">
+  <a href="https://www.linkedin.com/in/subedisangam"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://instagram.com/sangamhoni"><img alt="Instagram" src="https://img.shields.io/badge/instagram-fd1d1d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
+  <a href="mailto:subedisangam101@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Send%20Mail-black?color=f84437&labelColor=f84437&logo=gmail&logoColor=ffffff&style=for-the-badge" target="_blank" /></a>
+  <a href="https://twitter.com/sangamhoni"><img alt="X" src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" /></a>
 </p>
 
 
-<!-- LINE ANIMATION. not working rn--> 
+
+<!-- LINE ANIMATION--> 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <!-- PROFILE VIEWS COUNTER -->
-&nbsp;  
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsangamhoni&label=VISITS&labelColor=%23263759&countColor=%230d1117&labelStyle=upper)](proflle-visits)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsangamhoni&label=PROFILE%20VISITS&labelColor=%23263759&countColor=%230d1117&labelStyle=upper)](proflle-visits)
+
+
+<!--   WAVE ANIMATION -->
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 
 
 
