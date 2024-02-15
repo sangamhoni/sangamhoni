@@ -1,12 +1,16 @@
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=500&pause=1000000000000&vCenter=true&random=false&width=317&height=60&lines=I+am+Sangam+and+I">
+<div align="center">      <!-- to make the whole doc center aligned -->
+
+<!-- TYPING ANIMATION -->  
+  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&color=00000000&center=true&vCenter=true&random=false&width=140&height=70&lines=-%3E">      <!-- empty space at front to manage centering --> 
+  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&vCenter=true&random=false&width=317&height=60&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+I+am+Sangam+and+I">
   <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=7&vCenter=true&random=false&width=250&height=60&lines=+code.;+design.;+build+stuffs.++++;+workout.">
-</div>
 
 
 <!-- ABOUT ME -->
 ### `<about_me />`
+
+<div align="left">      <!-- to make the code-snippet left-aligned -->
+
 ```
 const Sangam = {
     fullName: "Sangam Subedi",
@@ -25,10 +29,11 @@ const Sangam = {
 ```
 &nbsp;  
 
+<div align="center">      <!-- to continue making everything centered -->
 
 <!-- TECH STACK -->
 ### `<tech_stack />`
-<p align="center">
+<p>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width=50" height=50" alt="Python" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width=50" height=50" alt="JavaScript"/></a>
     <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width=50" height=50" alt="C"/></a>
@@ -50,12 +55,10 @@ const Sangam = {
 
 <!-- SOCIAL MEDIA -->
 ### `<say_hello />`
-<p align="center">
   <a href="https://www.linkedin.com/in/subedisangam"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="https://instagram.com/sangamhoni"><img alt="Instagram" src="https://img.shields.io/badge/instagram-fd1d1d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
   <a href="mailto:subedisangam101@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Send%20Mail-black?color=f84437&labelColor=f84437&logo=gmail&logoColor=ffffff&style=for-the-badge" target="_blank" /></a>
   <a href="https://twitter.com/sangamhoni"><img alt="X" src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" /></a>
-</p>
 
 
 
@@ -71,7 +74,6 @@ const Sangam = {
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
 
 
 
