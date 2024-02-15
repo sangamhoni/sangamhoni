@@ -2,7 +2,7 @@
 
 <!-- TYPING ANIMATION -->  
   <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&color=00000000&center=true&vCenter=true&random=false&width=140&height=70&lines=-%3E">      <!-- empty space at front to manage centering --> 
-  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&vCenter=true&random=false&width=317&height=60&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+I+am+Sangam+and+I">
+  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&vCenter=true&random=false&width=317&height=60&lines=I+am+Sangam+and+I">
   <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=7&vCenter=true&random=false&width=250&height=60&lines=+code.;+design.;+build+stuffs.++++;+workout.">
 
 
