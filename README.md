@@ -1,9 +1,9 @@
 <div align="center">      <!-- to make the whole doc center aligned -->
 
 <!-- TYPING ANIMATION -->  
-  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&color=00000000&center=true&vCenter=true&random=false&width=140&height=70&lines=-%3E">      <!-- empty space at front to manage centering --> 
-  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&vCenter=true&random=false&width=317&height=60&lines=I+am+Sangam+and+I">
-  <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=7&vCenter=true&random=false&width=250&height=60&lines=+code.;+design.;+build+stuffs.++++;+workout.">
+<img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&color=00000000&center=true&vCenter=true&random=false&width=140&height=70&lines=-%3E">      <!-- empty space at front to manage centering --> 
+<img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&vCenter=true&random=false&width=317&height=60&lines=I+am+Sangam+and+I">
+<img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=7&vCenter=true&random=false&width=250&height=60&lines=+code.;+design.;+build+stuffs.++++;+workout.">
 
 
 <!-- ABOUT ME -->
@@ -12,24 +12,27 @@
 <div align="left">      <!-- to make the code-snippet left-aligned -->
 
 ```
-const Sangam = {
-    fullName: "Sangam Subedi",
-    pronouns: "he" | "him",  
-    code: [Javascript, HTML, CSS],  
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],  
-    technologies: {  
-        frontEnd: {  
-            css: ["bootstrap", "materialize"]  
-        },  
-        backEnd: {  
-            js: ["firebase", "node"]  
-        }  
-    }  
-};  
+0  const Sangam = {
+1      fullName: "Sangam Subedi",
+2      pronouns: "he" || "him",
+3      dateOfBirth: 2004,
+4      age: new Date().getFullYear() - this.dateOfBirth,
+5      code: ["Javascript", "HTML", "CSS"],
+6      askMeAbout: ["web dev", "graphics", "dig. marketing", "music", "coffee"],
+7      technologies: {
+8          frontEnd: {
+9             css: ["tailwind", "react"]
+10         },
+11         backEnd: {
+12             js: ["node"]
+13         }
+14     }
+15 };
 ```
 &nbsp;  
 
 <div align="center">      <!-- to continue making everything centered -->
+
 
 <!-- TECH STACK -->
 ### `<tech_stack />`
@@ -58,89 +61,35 @@ const Sangam = {
   <a href="https://www.linkedin.com/in/subedisangam"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="https://instagram.com/sangamhoni"><img alt="Instagram" src="https://img.shields.io/badge/instagram-fd1d1d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
   <a href="mailto:subedisangam101@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Send%20Mail-black?color=f84437&labelColor=f84437&logo=gmail&logoColor=ffffff&style=for-the-badge" target="_blank" /></a>
-  <a href="https://twitter.com/sangamhoni"><img alt="X" src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" /></a>
+  <a href="https://twitter.com/sangamhoni"><img alt="X" src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" /></a>  
+&nbsp;  
 
+
+<!-- GITHUB STATS --> 
+### `<gh_stats />`
+<!-- streak card -->
+<img align="center" alt="sangamhoni" src="https://github-readme-streak-stats.herokuapp.com/?user=sangamhoni&theme=tokyonight&show_icons=true&hide_border=true" />
+<!-- language card -->
+<img align="center" alt="Languages" src="https://github-readme-stats-sangamhoni.vercel.app/api/top-langs/?username=sangamhoni&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20I've%20Used" />  
+<!-- stats card -->
+<img src="https://github-readme-stats-sangamhoni.vercel.app/api?username=sangamhoni&show_icons=true&theme=tokyonight&hide_border=true&icon_color=38bdae&include_all_commits=true&custom_title=My%20Github%20Stats">    
+
+&nbsp;  
 
 
 <!-- LINE ANIMATION--> 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">  
+&nbsp;  
+
+<!-- DONATION OPTIONS --> 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sangamhoni)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sangamhoni)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sangamhoni)  
 
 
-<!-- PROFILE VIEWS COUNTER -->
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsangamhoni&label=PROFILE%20VISITS&labelColor=%23263759&countColor=%230d1117&labelStyle=upper)](proflle-visits)
+<!-- PROFILE VIEWS COUNTER -->  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsangamhoni&label=PROFILE%20VISITS&labelColor=%23263759&countColor=%230d1117&labelStyle=upper)](proflle-visits)  
 
 
 <!--   WAVE ANIMATION -->
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hey 👋, I'm Sangam</h1>
-<h3 align="center">An enthusiastic learner from Nepal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangamhoni&label=Profile%20views&color=186ec4&style=flat-square" alt="sangamhoni" /> </p>
-
-<!--
-- 🔭 I’m currently working on [not available](no link available)
--->
-
-- 🌱 I’m currently learning **Python**
-
-<!--
-- 👯 I’m looking to collaborate on [not available](no link available)
-
-- 🤝 I’m looking for help with [not available](no link available)
-
-- 👨‍💻 All of my projects are available at [notavailabe](notavailabe)
--->
-
-- 💬 Ask me about **Python, CSS**
-
-- 📫 How to reach me **subsangam01@gmail.com**
-
-- ⚡ Fun fact **I code till 3am ;-;**
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sangamhoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sangamhoni" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subedisangam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subedisangam" height="30" width="40" /></a>
-<a href="https://instagram.com/_ssangam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ssangam" height="30" width="40" /></a>
-</p>
-
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p float="left">   
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sangamhoni&theme=tokyonight&show_icons=true" alt="sangamhoni" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamhoni&show_icons=true&locale=en&theme=tokyonight"
-    alt="sangamhoni"/>
-</p>
-
-<br>
-<br> 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sangamhoni&show_icons=true&locale=en&theme=tokyonight"
-    alt="sangamhoni" />
-</p> 
-
-
-<!--
-Made this README from: https://rahuldkjain.github.io/gh-profile-readme-generator/ :)
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
