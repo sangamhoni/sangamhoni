@@ -58,7 +58,7 @@
 
 <!-- SOCIAL MEDIA -->
 ### `<say_hello />`
-  <a href="https://www.linkedin.com/in/subedisangam"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/sangamhoni"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="https://instagram.com/sangamhoni"><img alt="Instagram" src="https://img.shields.io/badge/instagram-fd1d1d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
   <a href="mailto:subedisangam101@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Send%20Mail-black?color=f84437&labelColor=f84437&logo=gmail&logoColor=ffffff&style=for-the-badge" target="_blank" /></a>
   <a href="https://twitter.com/sangamhoni"><img alt="X" src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" /></a>  
