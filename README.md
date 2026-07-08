@@ -1,9 +1,9 @@
 <div align="center">      <!-- to make the whole doc center aligned -->
 
-<!-- TYPING ANIMATION -->  
-<img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&color=00000000&center=true&vCenter=true&random=false&width=140&height=70&lines=-%3E">      <!-- empty space at front to manage centering --> 
-<img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&vCenter=true&random=false&width=317&height=60&lines=I+am+Sangam+and+I">
-<img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=7&vCenter=true&random=false&width=250&height=60&lines=+code.;+design.;+build+stuffs.++++;+workout.">
+<!-- TYPING ANIMATION   -->
+<!-- <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&color=00000000&center=true&vCenter=true&random=false&width=140&height=70&lines=-%3E">      empty space at front to manage centering  -->
+<!-- <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1000000000000&vCenter=true&random=false&width=317&height=60&lines=I+am+Sangam+and+I"> -->
+<!-- <img alt="whoami" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=7&vCenter=true&random=false&width=250&height=60&lines=+code.;+design.;+build+stuffs.++++;+workout."> -->
 
 
 <!-- ABOUT ME -->
@@ -14,21 +14,9 @@
 ```python
 class Sangam:
     def __init__(self):
-        from datetime import datetime
         self.full_name = "Sangam Subedi"
-        self.preferred_name = "Sam"
         self.pronouns = ["he", "him", "his"]
-        self.date_of_birth = 2004
-        self.age = datetime.now().year - self.date_of_birth
-        self.code = ["Python", "C", "HTML", "CSS", "JS"]
-        self.ask_me_about = ["graphic design", "dig. marketing", "music", "coffee"]
-        self.passions = ["graphic design"]
-        self.interests_and_hobbies = ["touch typing", "chess", "ping pong"]
-        self.knowledge = {
-            "OOP": True,
-            "data_structures_and_algorithms": True
-        }
-        self.frameworks_and_modules = ["Tkinter", "Turtle", "Pandas", "Curses"]
+        self.ask_me_about = ["homelabs", "ml", "claude secrets", "beckon-ai", "dig. marketing"]
 ```
 
 &nbsp;  
@@ -74,7 +62,7 @@ class Sangam:
 
 
 <!-- LINE ANIMATION--> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">  
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">   -->
 &nbsp;  
 
 <!-- DONATION OPTIONS --> 
