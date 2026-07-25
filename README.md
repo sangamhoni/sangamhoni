@@ -41,13 +41,12 @@ class Sangam:
 
 
 <!-- SOCIAL MEDIA -->
-### `<say_hello />`
+<!-- ### `<say_hello />`
   <a href="https://www.linkedin.com/in/sangamhoni"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="https://instagram.com/sangamhoni"><img alt="Instagram" src="https://img.shields.io/badge/instagram-fd1d1d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
   <a href="mailto:subedisangam101@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Send%20Mail-black?color=f84437&labelColor=f84437&logo=gmail&logoColor=ffffff&style=for-the-badge" target="_blank" /></a>
   <a href="https://twitter.com/sangamhoni"><img alt="X" src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" /></a>  
-&nbsp;  
-
+&nbsp;  -->
 
 <!-- GITHUB STATS --> 
 ### `<gh_stats />`
@@ -66,14 +65,14 @@ class Sangam:
 &nbsp;  
 
 <!-- DONATION OPTIONS --> 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sangamhoni)
+<!-- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sangamhoni)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sangamhoni)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sangamhoni)  
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sangamhoni)  -->
 
 
 <!-- PROFILE VIEWS COUNTER -->  
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsangamhoni&label=PROFILE%20VISITS&labelColor=%23263759&countColor=%230d1117&labelStyle=upper)](proflle-visits)  
 
 
-<!--   WAVE ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+<!-- WAVE ANIMATION -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/> -->
