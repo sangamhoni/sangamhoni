@@ -25,7 +25,7 @@ class Sangam:
 
 
 <!-- TECH STACK -->
-### `<tech_stack />`
+<!-- ### `<tech_stack />`
 <p>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width=50" height=50" alt="Python" /></a>
     <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width=50" height=50" alt="C"/></a>
@@ -37,8 +37,7 @@ class Sangam:
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ps" width=50" height=50" alt="Photoshop"/></a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" width=50" height=50" alt="Illustrator"/></a>
 </p>
-&nbsp;  
-
+&nbsp; -->
 
 <!-- SOCIAL MEDIA -->
 <!-- ### `<say_hello />`
